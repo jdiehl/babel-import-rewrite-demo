@@ -1,0 +1,151 @@
+{
+  "type": "ImportDeclaration",
+  "start": 0,
+  "end": 45,
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "index": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 45,
+      "index": 45
+    }
+  },
+  "specifiers": [
+    {
+      "type": "ImportSpecifier",
+      "start": 9,
+      "end": 12,
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 9,
+          "index": 9
+        },
+        "end": {
+          "line": 1,
+          "column": 12,
+          "index": 12
+        }
+      },
+      "imported": {
+        "type": "Identifier",
+        "start": 9,
+        "end": 12,
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 9,
+            "index": 9
+          },
+          "end": {
+            "line": 1,
+            "column": 12,
+            "index": 12
+          },
+          "identifierName": "jsx"
+        },
+        "name": "jsx"
+      },
+      "local": {
+        "type": "Identifier",
+        "start": 9,
+        "end": 12,
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 9,
+            "index": 9
+          },
+          "end": {
+            "line": 1,
+            "column": 12,
+            "index": 12
+          },
+          "identifierName": "jsx"
+        },
+        "name": "jsx"
+      }
+    },
+    {
+      "type": "ImportSpecifier",
+      "start": 14,
+      "end": 18,
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 14,
+          "index": 14
+        },
+        "end": {
+          "line": 1,
+          "column": 18,
+          "index": 18
+        }
+      },
+      "imported": {
+        "type": "Identifier",
+        "start": 14,
+        "end": 18,
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 14,
+            "index": 14
+          },
+          "end": {
+            "line": 1,
+            "column": 18,
+            "index": 18
+          },
+          "identifierName": "jsxs"
+        },
+        "name": "jsxs"
+      },
+      "local": {
+        "type": "Identifier",
+        "start": 14,
+        "end": 18,
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 14,
+            "index": 14
+          },
+          "end": {
+            "line": 1,
+            "column": 18,
+            "index": 18
+          },
+          "identifierName": "jsxs"
+        },
+        "name": "jsxs"
+      }
+    }
+  ],
+  "source": {
+    "type": "StringLiteral",
+    "start": 26,
+    "end": 45,
+    "loc": {
+      "start": {
+        "line": 1,
+        "column": 26,
+        "index": 26
+      },
+      "end": {
+        "line": 1,
+        "column": 45,
+        "index": 45
+      }
+    },
+    "extra": {
+      "rawValue": "react/jsx-runtime",
+      "raw": "\"react/jsx-runtime\""
+    },
+    "value": "@dynatrace/react-native-plugin/jsx-runtime"
+  }
+}
